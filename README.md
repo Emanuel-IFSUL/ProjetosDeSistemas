@@ -1,6 +1,8 @@
 # ProjetosDeSistemas
 Eae blz?
 
+Alunos: Emanuel Scherer e Vitor Nascimento
+
 # Manual de Git para a aula de Projetos de Sistemas
 
 ```
